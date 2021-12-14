@@ -6,4 +6,9 @@ This assignment focused on creating maps that plotted techtonic plates, major ea
 ## Summary
 Was able to successfully create the images below:  
 
- ![Snapshot](https://user-images.githubusercontent.com/86682802/145920668-ae290a07-b017-40b6-a61a-5eec4a33173a.png)
+![All Earthquake](https://github.com/madrivers/Mapping_Earthquakes/blob/main/Resources/All%20EQ.png)
+ 
+![Major Earthquake](https://github.com/madrivers/Mapping_Earthquakes/blob/main/Resources/Major%20EQ.png)
+  
+![Tectonic Plate](https://github.com/madrivers/Mapping_Earthquakes/blob/main/Resources/Tectonic.png)
+
