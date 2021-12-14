@@ -6,4 +6,4 @@ This assignment focused on creating maps that plotted techtonic plates, major ea
 ## Summary
 Was able to successfully create the images below:  
 
- ![Snapshot](https://github.com/madrivers/Mission_to_Mars/blob/main/resources/Mars%202.png)
+ ![Snapshot](https://user-images.githubusercontent.com/86682802/145920668-ae290a07-b017-40b6-a61a-5eec4a33173a.png)
